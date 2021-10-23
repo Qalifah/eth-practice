@@ -26,4 +26,7 @@ func main() {
     fmt.Println("Querying Block")
     queryBlock(client)
     fmt.Println("******************************************")
+    fmt.Println("Querying Transaction")
+    queryTx(client)
+    fmt.Println("******************************************")
 }
