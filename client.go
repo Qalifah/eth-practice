@@ -29,4 +29,7 @@ func main() {
     fmt.Println("Querying Transaction")
     queryTx(client)
     fmt.Println("******************************************")
+    fmt.Println("Transferring Ethereum")
+    transferETH(client)
+    fmt.Println("******************************************")
 }
