@@ -32,4 +32,7 @@ func main() {
     fmt.Println("Transferring Ethereum")
     transferETH(client)
     fmt.Println("******************************************")
+    fmt.Println("Transferring Token")
+    transferToken(client)
+    fmt.Println("******************************************")
 }
