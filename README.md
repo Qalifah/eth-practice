@@ -1,1 +1,1 @@
-## Exploring Ethereum
+## Exploring Ethereum using go-ethereum
